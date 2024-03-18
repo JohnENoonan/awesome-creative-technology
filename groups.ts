@@ -111,6 +111,7 @@ export const list: List = [
 				link: "https://www.breezecreative.com/",
 				locations: ["NYC", "Miami"],
 			},
+"Bright": {"keywords":"data visualization, digital installations, experiential sites, video games","link":"https://brig.ht/","locations":["Paris"],"careerLink":"https://brig.ht/contact"},
 			"C&G Partners": {
 				careerLink: "https://www.cgpartnersllc.com/about/careers/",
 				keywords:
