@@ -232,11 +232,6 @@ export const list: List = [
 				link: "https://dpt.co/",
 				locations: ["Montreal"],
 			},
-			"batwin + robin productions": {
-				keywords: "environments, interactives, theaters, events",
-				link: "https://www.batwinandrobin.com/",
-				locations: ["NYC"],
-			},
 			"ESI Design": {
 				careerLink: "https://esidesign.nbbj.com/jobs/",
 				keywords: "transforms places into experiences, immersive deisgn, architectural scale",
@@ -294,6 +289,11 @@ export const list: List = [
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "experiential technologies in advertising and entertainment and art",
 				link: "https://www.futurecolossal.com/",
+				locations: ["NYC"],
+			},
+			"batwin + robin productions": {
+				keywords: "environments, interactives, theaters, events",
+				link: "https://www.batwinandrobin.com/",
 				locations: ["NYC"],
 			},
 			"Gallagher & Associates": {
@@ -924,6 +924,11 @@ export const list: List = [
 		description:
 			"Established artist collectives/practices that work with creative technology (here primarily for reference, not necessarily for career opportunities).",
 		rows: {
+			"3-Legged Dog": {
+				keywords: "original works in theater, performance, dance, media and hybrid forms",
+				link: "https://www.3ld.org/",
+				locations: ["NYC"],
+			},
 			"Brooklyn Research": {
 				keywords:
 					"we build interactive systems for a range of clients including museums, artists, and leading technology firms",
