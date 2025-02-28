@@ -312,6 +312,12 @@ export const list: List = [
 				link: "https://float4.com/en/",
 				locations: ["Montreal", "NYC"],
 			},
+			"flora&faunavisions": {
+				careerLink: "https://www.florafaunavisions.de/jobs",
+				keywords: "digital installations, live performances, immersive projections",
+				link: "https://www.florafaunavisions.de/",
+				locations: ["Berlin"],
+			},
 			"fuse": {
 				keywords: "live-media performances, experimentation, electronic music, digital arts",
 				link: "https://www.fuseworks.it/en/",
