@@ -1148,6 +1148,13 @@ export const list: List = [
 				link: "https://www.bridgewaterstudio.net",
 				locations: ["Chicago"],
 			},
+			"DCL": {
+				careerLink: "https://www.designcommunicationsltd.com/careers/",
+				keywords:
+					"engineer, fabricate and install custom signage, environmental graphics, experiential elements and innovative tech integrations",
+				link: "https://www.designcommunicationsltd.com/",
+				locations: ["Avon, MA"],
+			},
 			"Eventscape": {
 				keywords: "building the extraordinary, full service",
 				link: "https://eventscape.com/",
