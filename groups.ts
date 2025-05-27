@@ -329,11 +329,11 @@ export const list: List = [
 				link: "https://www.futurecolossal.com/",
 				locations: ["NYC"],
 			},
-			"Gallagher & Associates": {
+			"G&A": {
 				careerLink: "https://www.futurecolossal.com/contact",
 				keywords: "harmony between technology, narrative, and physical design",
 				link: "https://www.gallagherdesign.com/",
-				locations: ["DC", "NYC", "Portland", "Singapore"],
+				locations: ["DC", "NYC", "Portland"],
 			},
 			"Game Seven": {
 				careerLink: "https://www.gameseven.agency/careers",
