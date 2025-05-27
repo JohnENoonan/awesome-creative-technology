@@ -232,6 +232,7 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Ultravioletto**](https:&#x2F;&#x2F;ultraviolet.to&#x2F;) | [Rome] | exhibitions, fairs, museums, brand experiences and events | 
 | [**United Visual Artists**](https:&#x2F;&#x2F;www.uva.co.uk&#x2F;) | [London] | new technologies with traditional media, site-specific, instruments that manipulate perception | 
 | [**WHYIXD**](https:&#x2F;&#x2F;www.whyixd.com&#x2F;) | [Taiwan] | cross-disciplinary art installations, dance, architecture, music | 
+| [**Worksofar**](https:&#x2F;&#x2F;www.worksofar.com&#x2F;) | [London] [Athens] | immersive exhibitions, light installation, kinetic sculpture, bespoke hardware | 
 
 
 ## Experiential Spaces &amp; Experiences
