@@ -1087,6 +1087,11 @@ export const list: List = [
 				link: "https://www.whyixd.com/",
 				locations: ["Taiwan"],
 			},
+			"Worksofar": {
+				keywords: "immersive exhibitions, light installation, kinetic sculpture, bespoke hardware",
+				link: "https://www.worksofar.com/",
+				locations: ["London", "Athens"],
+			},
 		},
 	},
 	{
