@@ -247,6 +247,12 @@ export const list: List = [
 				link: "https://dotdotdash.io/",
 				locations: ["Portland", "LA", "NYC"],
 			},
+			"dotmill": {
+				careerLink: "https://dot-mill.career.greetinghr.com/ko/home",
+				keywords: "theme parks, exhibitions, public art, branded experience design",
+				link: "https://dot-mill.com/?p=3",
+				locations: ["Seoul"],
+			},
 			"Downstream": {
 				careerLink: "https://downstream.com/careers",
 				keywords: "strategy + design + content + technology",
