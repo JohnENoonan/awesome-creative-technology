@@ -734,6 +734,11 @@ export const list: List = [
 				link: "https://set-reset.com/",
 				locations: ["London"],
 			},
+			"Sitara Systems": {
+				keywords: "content creation, digital interactives, experience design",
+				link: "https://sitara.systems/",
+				locations: ["Vegas"],
+			},
 			"SOSO": {
 				careerLink: "https://www.sosolimited.com/careers/",
 				keywords:
