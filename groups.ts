@@ -737,7 +737,7 @@ export const list: List = [
 			"Sitara Systems": {
 				keywords: "content creation, digital interactives, experience design",
 				link: "https://sitara.systems/",
-				locations: ["Vegas"],
+				locations: ["Las Vegas"],
 			},
 			"SOSO": {
 				careerLink: "https://www.sosolimited.com/careers/",
