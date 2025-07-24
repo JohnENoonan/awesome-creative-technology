@@ -165,6 +165,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [🌐](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
 | [**Seeeklab**](https:&#x2F;&#x2F;www.seeeklab.com&#x2F;en&#x2F;) | [Xiamen] | marketing events, interactive installation | 
 | [**Set Reset**](https:&#x2F;&#x2F;set-reset.com&#x2F;) | [London] | transforming data into compelling stories that fuel growth and create opportunity | 
+| [**Sitara Systems**](https:&#x2F;&#x2F;sitara.systems&#x2F;) | [Las Vegas] | content creation, digital interactives, experience design | 
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
 | [**space150**](https:&#x2F;&#x2F;www.space150.com&#x2F;) | [Minneapolis] [LA] [NYC] | a tech-driven creative agency | [🌐](https:&#x2F;&#x2F;www.space150.com&#x2F;careers)
 | [**Sparks**](https:&#x2F;&#x2F;www.wearesparks.com&#x2F;) | [Philadelphia] [Shanghai] [Paris] [Berlin] [Amsterdam] | conferences, popups, event production, fabrication | 
