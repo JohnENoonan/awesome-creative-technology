@@ -151,6 +151,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
 | [**Ouchhh Studio**](https:&#x2F;&#x2F;ouchhh.tv&#x2F;) | [Istanbul] | public art, poetic public experiences, data as a paint, algorithm as a brush | 
 | [**Patten Studio**](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;) | [NYC] | informed by research at the MIT Media Lab, experiences that connect people | [🌐](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;about&#x2F;)
+| [**Petricore**](https:&#x2F;&#x2F;petricoregames.com&#x2F;) | [Worcester, MA] | games, interactive media, exhibit software production, AR | 
 | [**Pneuhaus**](https:&#x2F;&#x2F;pneu.haus) | [Island] | using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder | 
 | [**Potion Design**](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;) | [NYC] | design and technology studio, interactive, musuems | [🌐](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;work-with-us)
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
