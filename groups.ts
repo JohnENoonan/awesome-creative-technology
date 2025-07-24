@@ -651,6 +651,11 @@ export const list: List = [
 				link: "https://www.pattenstudio.com/",
 				locations: ["NYC"],
 			},
+			"Petricore": {
+				keywords: "games, interactive media, exhibit software production, AR",
+				link: "https://petricoregames.com/",
+				locations: ["Worcester, MA"],
+			},
 			"Pneuhaus": {
 				keywords:
 					"using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder",
