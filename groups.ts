@@ -1027,6 +1027,12 @@ export const list: List = [
 				link: "https://www.daveandgabe.care/",
 				locations: ["NYC"],
 			},
+			"Everyware": {
+				keywords:
+					"exploring intuitive and interesting communications between the real and virtual worlds, physical computing",
+				link: "https://everyware.kr/",
+				locations: ["Seoul"],
+			},
 			"Hypersonic": {
 				keywords: "groundbreaking new media sculptures and physical installations",
 				link: "https://www.hypersonic.cc/",
