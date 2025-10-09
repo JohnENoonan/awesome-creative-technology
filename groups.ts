@@ -895,6 +895,11 @@ export const list: List = [
 				link: "https://tinker.nl/en",
 				locations: ["Utrecht"],
 			},
+			"TMS": {
+				keywords: "site specific media, room scale projection",
+				link: "https://www.tamschick.com/",
+				locations: ["Berlin"],
+			},
 			"Tool": {
 				keywords:
 					"help brands and agencies with ideation, content, and experience production that generate buzz",
