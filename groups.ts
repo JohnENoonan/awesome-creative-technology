@@ -45,7 +45,7 @@ export const list: List = [
 				keywords:
 					"partner with cultural and tourism organisations to invent new realities of human experience",
 				link: "https://www.artprocessors.net",
-				locations: ["Melbourne", "NYC"],
+				locations: ["Melbourne", "Hobart"],
 			},
 			"Artists & Engineers": {
 				keywords: "production and technology studio, showrooms, concerts, art installations",
