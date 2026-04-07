@@ -53,7 +53,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Adirondack Studios**](https:&#x2F;&#x2F;www.adkstudios.com&#x2F;) | [Glens Falls, NY] [Dubai] [Orlando] [Shanghai] [LA] [Singapore] | concept, schematic, design, construction, fabrication, installation, support | [🌐](https:&#x2F;&#x2F;www.adkstudios.com&#x2F;team&#x2F;#careers)
 | [**Alt Ethos**](https:&#x2F;&#x2F;altethos.com&#x2F;) | [Denver] | experiential, metaverse, and event design agency | 
 | [**Art + Com**](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;) | [Berlin] | media sculptures, data installations, new media | [🌐](https:&#x2F;&#x2F;artcom.de&#x2F;en&#x2F;jobs&#x2F;)
-| [**Art Processors**](https:&#x2F;&#x2F;www.artprocessors.net) | [Melbourne] [NYC] | partner with cultural and tourism organisations to invent new realities of human experience | [🌐](https:&#x2F;&#x2F;www.artprocessors.net&#x2F;job-opportunities)
+| [**Art Processors**](https:&#x2F;&#x2F;www.artprocessors.net) | [Melbourne] [Hobart] | partner with cultural and tourism organisations to invent new realities of human experience | [🌐](https:&#x2F;&#x2F;www.artprocessors.net&#x2F;job-opportunities)
 | [**Artists &amp; Engineers**](https:&#x2F;&#x2F;www.artistsandengineers.co.uk&#x2F;) | [London] | production and technology studio, showrooms, concerts, art installations | 
 | [**Augmented Magic**](https:&#x2F;&#x2F;www.augmented-magic.com&#x2F;) | [Paris] | augmented magic shows, digital installations | [📧](mailto:contact@augmented-magic.com)
 | [**AV Controls**](https:&#x2F;&#x2F;www.av-controls.com&#x2F;) | [NYC] | site-specific technology installations, digital landmarks | [🌐](https:&#x2F;&#x2F;www.av-controls.com&#x2F;jobs-current)
